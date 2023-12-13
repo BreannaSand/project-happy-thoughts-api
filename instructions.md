@@ -1,4 +1,4 @@
-# Instructions
+# Instructions 
 If you followed the 'Happy Thoughts' React assignment, you should remember this one - our own version of Twitter, but focusing on positivity and friendliness rather than, well, Twitter. 😉
 
 In the Happy Thoughts project, you built a frontend in React which uses an API we created to store thoughts. For this project, we want you to build your own API which works in the same way and should become a drop-in replacement for the API you used in the React frontend.
